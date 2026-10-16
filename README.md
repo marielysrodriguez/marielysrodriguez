@@ -1,4 +1,3 @@
-# marielysrodriguez.-GitHub
 # Hola, soy Marielys 
 
 Ingeniera en Informática y desarrolladora Front-End con más de 4 años de experiencia en equipos ágiles de salud y banca.
